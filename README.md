@@ -33,9 +33,9 @@ Checks the strength of a password using conditions and string analysis.
 
 I’m someone who loves to ask *“Why?”* and *“How?”* — especially when it comes to:
 - 🌌 Astronomy & Cosmic Mysteries (Origin of the universe, black holes, time, etc.)
-- 🔭 Have a great interest to do a research in astronomy
+- 🔭 Have a great interest to do research in astronomy
 - 💻 Deeply fascinated by **how computers truly work** — from electricity to binary to logic gates
--📱Exploring the inner mechanisms of interpreters, data structures, and AI
+- 📱Exploring the inner mechanisms of interpreters, data structures, and AI
 -🌟 Dreaming of contributing to AI tools that shape the future
 
 This curiosity drives the way I code, learn, and solve problems. For me, programming isn’t just about syntax — it’s about **dissecting how systems work and imagining what's next**.
