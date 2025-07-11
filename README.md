@@ -1,6 +1,6 @@
 # Hi, I'm Navaniga 👋
 
-🌱 A passionate beginner developer with big dreams and a fire to grow  
+🌱 I'm a first year computer science and engineering student  with big dreams and a fire to grow  
 💻 Currently learning Python, backend, and building real-world projects  
 🎯 Dream: Land a top internship, become financially independent, and build meaningful tech  
 
